@@ -1,5 +1,4 @@
 # main.py
-Jewish Calculator
 import subprocess
 import operator
 import random as rd
